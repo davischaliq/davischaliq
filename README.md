@@ -2,7 +2,7 @@
 
 - 🔭 &nbsp;Saya adalah freelancer web developers
 - 🌱 &nbsp;Saya sekarang sedang mendalami Pyhton untuk machine learning dan Golang untuk pemprograman website
-- 💬 &nbsp;Jika anda memerlukan saya untuk membuat sesuatu anda bisa menghubungi <a rel="me" href="https://api.whatsapp.com/send?phone=6281284537864&text=Dapatkah%20anda%20membuatkan%20saya%20website%20untuk%20keperluan%20bisnis%20saya%20segera."> Whatsapp : +6281284537864</a>
+- 💬 &nbsp;Jika anda memerlukan saya untuk membuat sesuatu anda bisa menghubungi <a rel="me" href="https://api.whatsapp.com/send?phone=6281284537864&text=Dapatkah%20anda%20membuatkan%20saya%20website%20untuk%20keperluan%20bisnis%20saya%20segera."> Click here !</a>
 
 📕 &nbsp;**Project yang pernah saya kerjakan**
 <!-- BLOG-POST-LIST:START -->
